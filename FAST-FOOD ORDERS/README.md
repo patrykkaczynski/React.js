@@ -30,7 +30,7 @@ The web application has been created in order to practise and consolidate materi
 <p align="center">
   <img src="./Screenshots/1.PNG">
   <img src="./Screenshots/2.PNG">
-  <img src="./Screenshots/3.PNG">
+  <img src="./Screenshots/s1.PNG">
 </p>
 
 
