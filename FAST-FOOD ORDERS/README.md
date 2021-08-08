@@ -28,12 +28,12 @@ The web application has been created in order to practise and consolidate materi
 
 ## Screenshots
 <p align="center">
-  <img src="./Screenshots/1.PNG" width="100" height="100">
+  <img src="./Screenshots/1.PNG">
   <img src="./Screenshots/2.PNG">
 </p>
 
 
 # Setup
 - git clone [repository] or download ZIP and unzip this file
-- go to catalog with the project and trigger `npm install` command
+- go to catalog with the project in terminal and trigger `npm install` command
 - run a program by `npm start` command
